@@ -1,4 +1,4 @@
-import Navbar from "./components/Navbar.jsx";
+import Navbar from "./components/NavBar.jsx";
 import Contact from "./section/Contact.jsx";
 import ExperienceSection from "./section/ExperienceSection.jsx";
 import FeatureCards from "./section/FeatureCards.jsx";
