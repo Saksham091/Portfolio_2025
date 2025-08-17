@@ -27,7 +27,7 @@ const words = [
 const counterItems = [
   { value: 3, suffix: "+", label: "Years of MERN Stack Practice" },
   { value: 2, suffix: "", label: "Full-Stack Projects Built" },
-  { value: 10, suffix: "+", label: "Technologies Worked With" },
+  { value: 12, suffix: "+", label: "Technologies & Tools Mastered" },
   { value: 1, suffix: "", label: "Ongoing Major Project" },
 ];
 
