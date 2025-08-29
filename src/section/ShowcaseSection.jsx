@@ -42,7 +42,7 @@ const ShowcaseSection = () => {
 
                     <div className="first-project-wrapper" ref={project1Ref}>
                         <div className="image-wrapper">
-                            <img src="/images/project1.png" alt="Librarium" />
+                            <img src="/images/project1.png" alt="Librarium" className="object-cover h-auto sm:h-120 sm:object-cover" />
                         </div>
                         <div className="text-content">
                             <h2>Effortless Book Discovery Through a Clean, Seamless Platform website called Librarium</h2>
